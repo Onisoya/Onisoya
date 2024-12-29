@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Alfred Onisoya V. the Cybersecurity Professional for startup businesses who prioritize customer data security and privacy. I offer hardened cybersecurity solutions that are cost friendly to startup organizations. I also deliver staff training and private cybersecurity trainings that are 100% practical.
-- 👀 I’m a Cybersecurity Professional and a Programmer
+- 👀 I’m a Cybersecurity Trainer, Researcher and a Programmer.
 - 🌱 I’m constantly reading, researching, learning and providing solutions to new and existing challenges.
 - 💞️ I’m looking to collaborate on Open source projects
 - 📫 You can email me: oniscontact@gmail.com
