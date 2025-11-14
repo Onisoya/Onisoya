@@ -1,9 +1,9 @@
-- 👋 Hi, I’m Alfred Onisoya V. the Cybersecurity Professional for startup businesses who prioritize customer data security and privacy. I offer hardened cybersecurity solutions that are cost friendly to startup organizations. I also deliver staff training and private cybersecurity trainings that are 100% practical.
-- 👀 I’m a Cybersecurity Trainer, Researcher and a Programmer.
-- 🌱 I’m constantly reading, researching, learning and providing solutions to new and existing challenges.
+- 👋 Hi, I’m Alfred Onisoya V.
+-    I'm a Penetration Tester | Bug Bounty Hunter | YouTuber | Sometimes a programmer.
+- 🌱 I’m constantly reading, researching, doing CTF labs and learning 
 - 💞️ I’m looking to collaborate on Open source projects
 - 📫 You can email me: oniscontact@gmail.com
-- ⚡ Fun fact: Python is my lightening bolt and JavaScript has my thoughts.
+- ⚡ Fun fact: I'm aspiring, building projects and mastering certain languages such as C, Python, JavaScript and PHP.
 
 <!---
 Onisoya/Onisoya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
